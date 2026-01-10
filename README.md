@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Framework: JAX](https://img.shields.io/badge/Framework-JAX-red.svg)](https://github.com/google/jax)
 [![Physics: GR](https://img.shields.io/badge/Physics-General--Relativity-black.svg)](#)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harihardiyan/warped-bps-flow/blob/main/RSGW_Field_Solver_Results.ipynb)
 
 A high-precision, differentiable numerical solver for the 5D Einstein-Scalar system in warped extra-dimensional models (Randall-Sundrum/Goldberger-Wise). This framework incorporates IR-localized quantum backreactions (Jackiw-Teitelboim and Schwarzian corrections) within a mathematically consistent BPS-flow formalism.
 
