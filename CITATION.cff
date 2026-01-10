@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hardiyan"
+  given-names: "Hari"
+  email: "lorozloraz@gmail.com"
+title: "Differentiable 5D Einstein-Scalar Field Solver for Warped Geometries"
+version: 1.0.0
+date-released: 2026-01-10
+url: "https://github.com/harihardiyan/diff-rsgw-field-solver"
+keywords:
+  - general-relativity
+  - randall-sundrum
+  - bps-flow
+  - jax
+  - differentiable-physics
+  - quantum-gravity
+abstract: "A high-precision numerical solver for the 5D Einstein-Scalar system, achieving machine-precision consistency in the Hamiltonian constraint for warped extra-dimensional models."
