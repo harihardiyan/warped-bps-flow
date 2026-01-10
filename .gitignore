@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JAX/XLA Compilation artifacts
+.jax_cache/
+
+# Data and Plots
+*.npy
+*.png
+*.pdf
+
+# Environments
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
