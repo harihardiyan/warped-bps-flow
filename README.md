@@ -70,7 +70,7 @@ Initial simulations targetting the Planck-to-Weak scale hierarchy demonstrate:
 
 **Hari Hardiyan**  
 Email: [lorozloraz@gmail.com](mailto:lorozloraz@gmail.com)  
-*Research focus: Differentiable Physics, Warped Geometries, and Numerical Relativity.*
+*This repository is an AI-assisted code artifact generated via prompt orchestration. The author does not claim domain expertise*
 
 ## Citation
 
